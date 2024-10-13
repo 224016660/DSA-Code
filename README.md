@@ -1,5 +1,4 @@
-# DSA-Code
-Project Coding
+Project Description :
 //
 This is a project that efficiently manages a phonebook that is able to update, delete, search, insert, display all and sort contacts accordingly to the user and will. 
 Using the following modules and with their functions:
@@ -17,7 +16,7 @@ Using the following modules and with their functions:
 7.	 Sort Contacts: client (user) can arrange their contacts into their desired arrangement they wish by example of either sorting in alphabetical order or time user inserted their contacts etc.
 
 //
-
+# DSA CODING:
 package DSA;
 
 import java.util.ArrayList;

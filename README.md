@@ -17,12 +17,12 @@ Using the following modules and with their functions:
 
 //
 # Group members :
-Frieda IM Ngiikumbu :223012246 
+Frieda IM Ngiikumbu :223012246
 Ausiku Asteria :224080563
-Wayne Feris :224016466 
-Jayden Claassen :224085832 
-Immanuel Konjore :224016660 
-Kwedhi Gabriel :224014056 
+Wayne Feris : 224016466 
+Jayden Claassen : 224085832 
+Immanuel Konjore : 224016660 
+Kwedhi Gabriel : 224014056 
 //
 # DSA CODING:
 package DSA;

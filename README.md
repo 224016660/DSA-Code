@@ -16,6 +16,14 @@ Using the following modules and with their functions:
 7.	 Sort Contacts: client (user) can arrange their contacts into their desired arrangement they wish by example of either sorting in alphabetical order or time user inserted their contacts etc.
 
 //
+# Group members :
+Frieda IM Ngiikumbu :223012246 
+Ausiku Asteria :224080563
+Wayne Feris :224016466 
+Jayden Claassen :224085832 
+Immanuel Konjore :224016660 
+Kwedhi Gabriel :224014056 
+//
 # DSA CODING:
 package DSA;
 
@@ -54,9 +62,6 @@ class Contact {
         return "Name: " + name + ", Number: " + number;
 
     }
-
-}
-
 
 
 public class Phonebook {
